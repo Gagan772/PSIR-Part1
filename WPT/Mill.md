@@ -115,3 +115,4 @@ Proposed reforms:
 ## Conclusion
 
 Mill’s ideas on liberty, democracy, state and governance form foundations of modern democracy.
+    
